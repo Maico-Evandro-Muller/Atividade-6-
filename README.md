@@ -1,4 +1,4 @@
-# 01 - CSS Global
+Estilização em React Mini Loja
 
 Projeto React com CSS Global para tela de produtos.
 
